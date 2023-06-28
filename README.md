@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jason
-- 👀 I’m interested in data science.
-- 🌱 I strive to mine the value of data to solve real problem.
+- 👀 I’m a back-end developer.
+- 🌱 I strive to solve real problems by coding.
 
 <!---
 JasonL-dev/JasonL-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
